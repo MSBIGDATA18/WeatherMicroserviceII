@@ -1,0 +1,21 @@
+{
+  "name": "weathermicroservices2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.1.0",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0"
+  }
+}
