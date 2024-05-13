@@ -10,7 +10,7 @@ Here's a description you can use for your GitHub repository :
 This is a simple Weather App built with Node.js that fetches weather data from a weather API via RapidAPI and displays it to the user. It allows users to search for weather information by city name and provides current weather conditions, temperature, humidity, wind speed, and more.
 # Features
 
-Weather Data Retrieval: Utilizes the RapidAPI platform to fetch weather data from a weather API.
-City Search: Users can enter a city name to get weather information for that location.
-Current Weather Display: Displays current weather conditions, temperature, humidity, wind speed, and other relevant information.
-User-friendly Interface: Provides a clean and intuitive user interface for easy navigation and readability.
+- *Weather Data Retrieval*: Utilizes the RapidAPI platform to fetch weather data from a weather API.
+- *City Search*: Users can enter a city name to get weather information for that location.
+- *Current Weather Display*: Displays current weather conditions, temperature, humidity, wind speed, and other relevant information.
+- *User-friendly Interface*: Provides a clean and intuitive user interface for easy navigation and readability.
